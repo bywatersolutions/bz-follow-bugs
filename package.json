@@ -1,0 +1,10 @@
+{
+  "name": "bz-follow-bugs",
+  "description": "Utility to cc yourself on all bugs from other users",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bywatersolutions/bz-follow-bugs.git"
+  },
+  "author": "Kyle M Hall",
+  "license": "GPL-3.0"
+}

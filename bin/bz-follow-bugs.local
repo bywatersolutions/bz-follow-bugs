@@ -1,0 +1,3 @@
+#!/bin/bash
+docker build -t bz-follow-bugs .
+docker run --env-file ~/.bz-follow-bugs.env bz-follow-bugs /app/bz-follow-bugs.pl "$@"
