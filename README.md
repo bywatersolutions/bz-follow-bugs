@@ -1,5 +1,7 @@
 # bz-follow-bugs
 
+Automatically cc yourself on bugs assigned to given users in Bugzilla 
+
 ## How to install and configure
 
 * Clone the repository: `git clone https://github.com/bywatersolutions/dev-bz-follow-bugs.git`
